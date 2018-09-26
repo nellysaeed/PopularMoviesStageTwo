@@ -1,8 +1,8 @@
 # PopularMoviesStageTwo
 
-- Popular Movies App allow users to view and play trailers.
-- Allow users to read reviews of a selected movie.
-- Allow users to mark a movie as a favorite in the details view by tapping a button(star).
+- Popular Movies App allows user to view and play trailers.
+- Allows user to read reviews of a selected movie.
+- Allows user to mark a movie as a favorite in the details view by tapping a button(star).
 
 - You will use the API from << themoviedb.org.>> If you don’t already have an account you will need to create one.
 
